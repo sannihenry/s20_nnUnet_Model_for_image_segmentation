@@ -1,0 +1,1 @@
+# s20_nnUnet_Model_for_image_segmentation
